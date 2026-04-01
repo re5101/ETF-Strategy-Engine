@@ -31,7 +31,7 @@ The ETF Strategy Engine is a multi-layered investment system that integrates:
 
 ## White Paper
 
-[Download Full White Paper](./whitepaper/ETF_Strategy_Engine_v0.1.pdf)
+[Download Full White Paper](https://github.com/re5101/ETF-Strategy-Engine/blob/main/ETF_Strategy_Engine_v0.1_Whitepaper_PRO.pdf)
 
 ---
 
