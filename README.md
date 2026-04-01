@@ -1,4 +1,4 @@
-# ETF_Strategy_Engine_v2.0.pdf
+# ETF_Strategy_Engine_v2.0
 
 Institutional-grade adaptive allocation framework designed for long-term capital growth through risk-managed compounding.
 
