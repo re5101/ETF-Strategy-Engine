@@ -46,7 +46,7 @@ Adaptive Macro Allocation Engine
 
 **Mind Bend Theory**  
 
-https://mindbendtheory.com  
+[https://mindbendtheory.com](https://mindbendtheory.com/strategy-engine)  
 
 - Brad Matzinger — Architect  
 - D1ssoulti0ng0v — Code Critique  
