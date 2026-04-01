@@ -1,5 +1,8 @@
 # ETF_Strategy_Engine_v2.0
 
+## Latest Version
+v2.0 — Includes full execution layer + system validation
+
 Institutional-grade adaptive allocation framework designed for long-term capital growth through risk-managed compounding.
 
 ---
