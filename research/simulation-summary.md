@@ -1,6 +1,6 @@
 # Simulation & Stress Test Summary
 
-## System: ETF Strategy Engine v0.1
+## System: ETF Strategy Engine v2.0
 
 ---
 
